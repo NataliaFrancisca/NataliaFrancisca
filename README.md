@@ -10,7 +10,7 @@
 ## - About me: :arrow_down: 
 :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas.
 
-:volleyball: Apaixonada por vôlei .
+:volleyball: Apaixonada por vôlei.
 
 :city_sunrise: São Paulo, Brasil.
 
