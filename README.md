@@ -14,3 +14,12 @@
 
 :city_sunrise: São Paulo, Brasil.
 
+:fa-arrow-right: **Minhas habilidades:**
+- HTML;
+- CSS;
+- Bootstrap;
+- JavaScript.
+
+:fa-arrow-right:** Iniciando os estudos:**
+- React;
+- Node.
