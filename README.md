@@ -20,6 +20,6 @@
 - Bootstrap;
 - JavaScript.
 
-:arrow_right: ** Iniciando os estudos:**
+:arrow_right: **Iniciando os estudos:**
 - React;
 - Node.
