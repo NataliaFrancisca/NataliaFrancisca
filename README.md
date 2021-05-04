@@ -2,13 +2,13 @@
 
   <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 <p align="left">
-  <a href="" alt="Gmail">
+  <a href="mailto:nathifrancisca@gmail.com?subject=Assunto" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:nathifrancisca@gmail.com?subject=Assunto" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/franciscanatalia/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscanatalia/" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/nt.francisca/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nt.francisca/"/></a>
 </p>  
 
