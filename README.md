@@ -14,7 +14,7 @@
 
 ---
 
-### 👧 **About me**:
+### 👧 **Sobre mim:**:
 
 - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas.
 
