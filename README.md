@@ -2,8 +2,9 @@
 
   <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
   
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nathifrancisca@gmail.com?subject=Assunto")
-  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscanatalia/)
+  <a href="mailto:nathifrancisca@gmail.com?subject=Assunto">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nathifrancisca@gmail.com?subject=Assunto)</a>
+  <a href="https://www.linkedin.com/in/franciscanatalia/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+  
   
 ---
 
