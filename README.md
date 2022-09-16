@@ -1,20 +1,15 @@
-##  Hello, my name is {Natalia}.
+### 💻 Hello, my name is **{Natalia}**.
 
-  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-  
-  <a href="mailto:nathifrancisca@gmail.com?subject=Assunto">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nathifrancisca@gmail.com?subject=Assunto)</a>
-  <a href="https://www.linkedin.com/in/franciscanatalia/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-  
-  
----
+- 🛠  HTML, CSS and React.js.
+- ✍🏼 No momento estou aprimorando meus conhecimentos em **React.js** e estudando sobre **Node.js e Angular**.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🏐 Apaixonada por vôlei.
+- 🌆 São Paulo, Brasil.
 
-### 👧 **Sobre mim:**
+</br>
 
-- :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas.
-
-- :volleyball: Apaixonada por vôlei.
-
-- :city_sunrise: São Paulo, Brasil.
+<a href="https://www.linkedin.com/in/franciscanatalia/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:nathifrancisca@gmail.com?subject=Assunto">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nathifrancisca@gmail.com?subject=Assunto)</a>
 
 ---
 
@@ -28,8 +23,4 @@
   ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   
- ---
-  
- ### 💻 Most Used Languages:
  
- ![GithubLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaFrancisca&theme=blue-green)
