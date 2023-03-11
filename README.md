@@ -24,3 +24,4 @@
   ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaFrancisca&hide_progress=false)](https://github.com/nataliaFrancisca/github-readme-stats)
