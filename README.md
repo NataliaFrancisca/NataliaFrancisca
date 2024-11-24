@@ -2,7 +2,7 @@
 </br>
 
 ## 🌟 About Me:
-- 🛠 I have experience building responsive web applications using **React.js**, **Next.js**, and **Node.js**.
+- 🛠 I have experience building responsive web applications using **React.js** and **Next.js**.
 - 📖 Improving my knowledge of **Data Structures**, **Algorithms**, and **Backend Development** with **Spring Boot** and **PostgreSQL**.
 - 🏐 I love playing volleyball.
 - 🌆 Based in São Paulo, Brazil.
