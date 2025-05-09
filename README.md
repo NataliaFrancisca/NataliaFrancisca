@@ -1,6 +1,3 @@
-![GithubProfile](https://raw.githubusercontent.com/NataliaFrancisca/github-readme-images/refs/heads/main/%5Bgithub%5D%20-%202025%20github%20profile.png)
-</br>
-
 ## 🌟 About Me:
 🛠 Currently specializing as a back-end developer with a focus on **Java**, **Spring Boot** and **MySQL**. </br>
 📖 Improving my skills in **Data Structures**, **Algorithms**, and backend technologies like **Spring Boot** and **PostgreSQL**. </br>
