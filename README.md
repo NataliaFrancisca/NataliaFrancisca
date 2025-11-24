@@ -1,6 +1,6 @@
 ## 🌟 About Me:
-🛠 Currently specializing as a back-end developer with a focus on **Java**, **Spring Boot** and **MySQL**. </br>
-📖 Improving my skills in **Data Structures**, **Algorithms**, and backend technologies like **Spring Boot** and **PostgreSQL**. </br>
+🛠 Currently specializing as a back-end developer with a focus on **Java**, **Spring Boot** and **PostgreSQL**. </br>
+📖 Improving my skills in **Data Structures**, **Algorithms**, and backend technologies like **Spring Boot**, **AWS** and **PostgreSQL**. </br>
 🏐 I love playing volleyball. </br>
 🌆 Based in São Paulo, Brazil.
 
